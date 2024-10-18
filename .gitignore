@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+Resource.txt
+notes.txt
+Open Escalations.xlsx
+pyvenv.cfg
+srr_query.sql
+.env
+Listing_tables_in_pgsql_server.ipynb
+/Scripts/
+/share/
+/etc/
+/Lib/
+/include/
